@@ -16,6 +16,7 @@
 3. self/public mode added ✅️
 4. nsfw added ✅️
 5. auto react added ✅️
+6. auto change menu pic added✅️
 🔻More features and improvements!
 
 -regards Ayush
