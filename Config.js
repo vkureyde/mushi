@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "919804160882"
-global.ownername = "BlackHeart🖤"
+global.ownernumber =  "0749419546"
+global.ownername = "don"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Tanzania"
 
 global.ownername = 'BlackHeart🖤' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = 'Don' //name of the bot
 
 //sticker details
 global.stickername = '?𓆩‎✘BlackHeart🖤✘𓆪_✰'
@@ -26,16 +26,16 @@ global.link = ''
 global.prefa = ['.']
 
 //false=disable and true=enable
-global.welcome = false //auto welcome
+global.welcome = true //auto welcome
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = false //auto update bio
+global.autobio = true //auto update bio
 global.anti212 = true //auto block +212
-global.autoread_status = false //auto view status/story
-
-
+global.autoread_status = true //auto view status/story
+global.autodetect_sticker and delete = true// delete sticker
+global.chatgpt_answer questions = true//answer questions
 
 //reply messages
 global.mess = {
@@ -59,3 +59,33 @@ fs.watchFile(file, () => {
     delete require.cache[file]
     require(file)
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
