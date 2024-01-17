@@ -2,22 +2,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "919804160882"
-global.ownername = "BlackHeart🖤"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernumber =  "923208061149"
+global.ownername = "Dana Ashiq"
+global.ytname = "YT: danaashiq"
+global.socialm = "GitHub: danaashiq"
+global.location = "pakistan"
 
-global.ownername = 'BlackHeart🖤' //owner name
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.ownername = 'danaashiq' //owner name
+global.botname = '*dana ashiq*' //name of the bot
 
 //sticker details
-global.stickername = '?𓆩‎✘BlackHeart🖤✘𓆪_✰'
+global.stickername = '?𓆩‎✘dana ashiq⭕✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'dana Bot'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "dana ashiq inc."
 
 //theme link
 global.link = ''
@@ -39,7 +39,7 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*🎀 Dana Bot 🎀*\n\n*🧩  link:* \nhttps://youtube.com/@dana_ashiq?si=X91wMbhGMENgaqia\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
