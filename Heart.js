@@ -38,22 +38,22 @@ const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var Ayushytimewisher = `Good Night 🌌`
+var Ayushytimewisher = `Konbawa 🌌`
  }
  if(time2 < "19:00:00"){
-var Ayushytimewisher = `Good Evening 🌃`
+var Ayushytimewisher = `Oyasuminasai🌃`
  }
  if(time2 < "18:00:00"){
-var Ayushytimewisher = `Good Evening 🌃`
+var Ayushytimewisher = `Oyasuminasai 🌃`
  }
  if(time2 < "15:00:00"){
-var Ayushytimewisher = `Good Afternoon 🌅`
+var Ayushytimewisher = `Konnichiwa 🌅`
  }
  if(time2 < "11:00:00"){
-var Ayushytimewisher = `Good Morning 🌄`
+var Ayushytimewisher = `Ohayo Gozaimasu🌄`
  }
  if(time2 < "05:00:00"){
-var Ayushytimewisher = `Good Morning 🌄`
+var Ayushytimewisher = `Ohayo Gozaimasu🌄`
  } 
 module.exports = Maria = async (Maria, m, msg, chatUpdate, store) => {
     try {
@@ -1133,7 +1133,7 @@ break
                 if (isAfkOn) return reply("Already afk")
                 let reason = text ? text : 'Nothing.'
                 afk.addAfkUser(m.sender, Date.now(), reason, _afk)
-                reply(`@${m.sender.split('@')[0]} Currently AFK\nWith reason : ${reason}`)
+                reply(`@${m.sender.split('@')[0]} Currently AFK\nWith alasan : ${reason}`)
                 break
       case 'qc': {
                 const {
@@ -1566,13 +1566,13 @@ case 'truth':
                            break
                            
   case 'menu': case 'help': case 'h': 
-  const txt = `╭─「 *Konichiwa* 」
+  const txt = `╭─「 *${xtime}* 」
 │⋊ 𝕌𝕤𝕖𝕣: *${pushname}* 
 │⋊ 𝕓𝕠𝕥 ℕ𝕒𝕞𝕖: 𝗠𝗮𝗿𝗶𝗮-𝗠𝗱
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩:  [ *${prefix}* ]
-│⋊ 𝕆𝕨𝕟𝕖𝕣: ${prefix}owner
+│⋊ 𝕆𝕨𝕟𝕖𝕣: GuzXD
 │⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: http://gg.gg/Maria-support
+│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: Coming 
 ╰────────────┈平和
 Here's the list of my Commands.🔖
 ${readmore}
@@ -1580,33 +1580,13 @@ ${readmore}
 │⊳ 🌿 ${prefix}hi
 │⊳ 🌿 ${prefix}dev
 │⊳ 🌿 ${prefix}info
-│⊳ 🌿 ${prefix}support
+│⊳ 🌿 ${prefix}kntl
 │⊳ 🌿 ${prefix}rules
 │⊳ 🌿 ${prefix}help
 │⊳ 🌿 ${prefix}runtime
 │⊳ 🌿 ${prefix}ping
 │⊳ 🌿 ${prefix}owner
-│⊳ 🌿 ${prefix}script
-└──────────⊰
-
-┌──⊰ _*🧩OWNER🧩*_
-│⊳ ♠️ ${prefix}session
-│⊳ ♠️ ${prefix}join
-│⊳ ♠️ ${prefix}mode *[self/public]*
-│⊳ ♠️ ${prefix}shutdown
-│⊳ ♠️ ${prefix}restart
-│⊳ ♠️ ${prefix}autoread *[option]*
-│⊳ ♠️ ${prefix}autotyping *[option]*
-│⊳ ♠️ ${prefix}autorecording *[option]*
-│⊳ ♠️ ${prefix}autorecordtyp *[option]*
-│⊳ ♠️ ${prefix}autobio *[option]*
-│⊳ ♠️ ${prefix}autoswview *[option]*
-│⊳ ♠️ ${prefix}setppbot
-│⊳ ♠️ ${prefix}block
-│⊳ ♠️ ${prefix}unblock
-│⊳ ♠️ ${prefix}backup
-│⊳ ♠️ ${prefix}getcase
-│⊳ ♠️ ${prefix}creategc
+│⊳ 🌿 ${prefix}ban
 └──────────⊰
 
 ┌──⊰ _*👮🏻‍♂️GROUP👮🏻‍♂️*_
@@ -1636,15 +1616,16 @@ ${readmore}
 │⊳🎟️ ${prefix}uglycheck
 │⊳🎟️ ${prefix}lovelycheck
 │⊳🎟️ ${prefix}prettycheck
-│⊳🎟️ ${prefix}hornycheck
-│⊳🎟️ ${prefix}lesbiancheck
-│⊳🎟️ ${prefix}lesbicheck
-│⊳🎟️ ${prefix}lesbiancheck
-│⊳🎟️ ${prefix}cutecheck
-│⊳🎟️ ${prefix}gaycheck
-│⊳🎟️ ${prefix}greatcheck
-│⊳🎟️ ${prefix}awesomecheck 
+│⊳🎟️ ${prefix}
+│⊳🎟️ ${prefix}lesbiancek
+│⊳🎟️ ${prefix}lesbicek
+│⊳🎟️ ${prefix}pintercek
+│⊳🎟️ ${prefix}goblokcek
+│⊳🎟️ ${prefix}gaycek
+│⊳🎟️ ${prefix}cantikcek
+│⊳🎟️ ${prefix}gantengcek
 └──────────⊰
+
 ┌──⊰ _*📂download📂*_
 │⊳ 📥 ${prefix}play
 │⊳ 📥 ${prefix}ytmp3
@@ -1655,6 +1636,7 @@ ${readmore}
 │⊳ 📥 ${prefix}pinterest
 │⊳ 📥 ${prefix}apk
 └──────────⊰
+
 ┌──⊰ _*🎐SnapBlend🎐*_
 │⊳🎀 ${prefix}shadow
 │⊳🎀 ${prefix}write
@@ -1672,6 +1654,49 @@ ${readmore}
 │⊳🎀 ${prefix}narutobanner
 │⊳🎀 ${prefix}shinetext
 └──────────⊰
+
+┌──⊰ _*🔞NSFW 🔞*_
+│⊳ 💦  ${prefix}blowjob
+│⊳ 💦  ${prefix}cum
+│⊳ 💦  ${prefix}foot
+│⊳ 💦  ${prefix}gangbang
+│⊳ 💦  ${prefix}hentai
+│⊳ 💦  ${prefix}pussy
+│⊳ 💦  ${prefix}ass
+│⊳ 💦  ${prefix}trap
+│⊳ 💦  ${prefix}maal
+│⊳ 💦  ${prefix}ʀɪʙʙᴏɴꜱ
+│⊳ 💦  ${prefix}ʜᴀᴛꜱᴜɴᴇᴍɪᴋᴜ
+│⊳ 💦  ${prefix}ʜᴇᴀᴅʙᴀɴᴅ
+│⊳ 💦  ${prefix}ꜰᴏxɢɪʀʟ
+│⊳ 💦  ${prefix}ᴀɴɪᴍᴀʟᴇᴀʀꜱ
+│⊳ 💦  ${prefix}ʙʀᴀ
+│⊳ 💦  ${prefix}ꜱᴋɪʀᴛ
+│⊳ 💦  ${prefix}ʙʀᴇᴀꜱᴛꜱ
+│⊳ 💦  ${prefix}ᴛᴀᴛᴛᴏᴏ
+│⊳ 💦  ${prefix}ᴄʜᴀɪɴ
+└──────────⊰ 
+
+┌──⊰ _*🧩OWNER🧩*_
+│⊳ ♠️ ${prefix}session
+│⊳ ♠️ ${prefix}join
+│⊳ ♠️ ${prefix}mode *[self/public]*
+│⊳ ♠️ ${prefix}shutdown
+│⊳ ♠️ ${prefix}restart
+│⊳ ♠️ ${prefix}autoread *[option]*
+│⊳ ♠️ ${prefix}autotyping *[option]*
+│⊳ ♠️ ${prefix}autorecording *[option]*
+│⊳ ♠️ ${prefix}autorecordtyp *[option]*
+│⊳ ♠️ ${prefix}autobio *[option]*
+│⊳ ♠️ ${prefix}autoswview *[option]*
+│⊳ ♠️ ${prefix}setppbot
+│⊳ ♠️ ${prefix}block
+│⊳ ♠️ ${prefix}unblock
+│⊳ ♠️ ${prefix}backup
+│⊳ ♠️ ${prefix}getcase
+│⊳ ♠️ ${prefix}creategc
+└──────────⊰
+
 ┌──⊰ _*⛩️OTHERS⛩️*_
 │⊳ 🏮 ${prefix}sticker
 │⊳ 🏮 ${prefix}qc
@@ -1713,7 +1738,50 @@ reply(`Reply to a Video with Caption ${prefix + command}`)
 }
 }
 break
+  //Random Anime
+         case 'cry':
+         case 'kill':
+         case 'hug':
+         case 'pat':
+         case 'lick':
+         case 'kiss':
+         case 'bite':
+         case 'yeet':
+         case 'neko':
+         case 'bully':
+         case 'bonk':
+         case 'wink':
+         case 'poke':
+         case 'nom':
+         case 'slap':
+         case 'smile':
+         case 'wave':
+         case 'awoo':
+         case 'blush':
+         case 'smug':
+         case 'glomp':
+         case 'happy':
+         case 'dance':
+         case 'cringe':
+         case 'highfive':
+         case 'shinobu':
+         case 'megumin':
+         case 'handhold': {
+            reply(lang.wait())
+            axios.get(`https://api.waifu.pics/sfw/${command}`)
+               .then(({
+                  data
+               }) => {
+                  Maria.sendMediaAsSticker(m.chat, data.url, m, {
+                     packname: global.packname,
+                     author: global.author
+                  })
 
+
+               })
+            db.data.users[m.sender].limit = addLimit
+         }
+         break
 
 case "couple":
         {
