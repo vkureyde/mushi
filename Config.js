@@ -22,10 +22,10 @@ global.wm = "Senna Bot inc."
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3jKOdyr1I'
 
 //custom prefix
-global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
+global.prefa = ['.']
 
 //false=disable and true=enable
-global.welcome = false //auto welcome
+global.welcome = true //auto welcome
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording

@@ -142,7 +142,7 @@ const getRandomImage = (directory) => {
   }
 };
 
-const imageDirectory = './Gallery/Theme-logo';
+const imageDirectory = './Gallery/audio';
   const randomImage = getRandomImage(imageDirectory);
 
 //group chat msg by Ayush
@@ -1564,170 +1564,480 @@ case 'truth':
                            buffer = await getBuffer(`https://graph.org/file/8dd92e67cd4019b092f53.jpg`)
                            Maria.sendMessage(from, { image: buffer, caption: '*You have chosen Truth*\n'+ Mariatruthww }, {quoted:m})
                            break
+case 'cekmemek':
+case 'memek':
+if (!q) return reply(`Penggunaan ${command} Nama\n\nContoh : ${command} Bella`)
+const memek = ['hitam', 'pink', 'tembem', 'sempit', 'black doff', 'berjerawat', 'bau amis', 'bau karbit', 'bau bensin' ]
+const pepek = memek[Math.floor(Math.random() * memek.length)]
+Maria.sendMessage(from, { text: `CEK MEMEK\nNama : ${q}\nJenis Memek: *${pepek}%*` }, { quoted:m})
+
+break
+case 'pintercek':
+case 'cekpinter':
+case 'cekgoblok':
+case 'goblokcek':
+case 'cantikcek':
+case 'cekcantik':
+if (!q) return reply(`Penggunaan ${command} Nama\n\nContoh : ${command} Riych`)
+const can = ['5', '99999', '15' ,'20', '25','30','35','40','45','50','55','60','65','70','75','80','85','90','100']
+const tik = can[Math.floor(Math.random() * can.length)]
+Maria.sendMessage(from, { text: `Nama : ${q}\nJawaban : *${tik}%*` }, { quoted:m})
+
+break
+case 'sangecek':
+case 'ceksange':
+case 'gaycek':
+case 'cekgay':
+case 'lesbicek':
+case 'ceklesbi':
+if (!q) return reply(`Penggunaan ${command} Nama\n\nContoh : ${command} ${pushname}`)
+const sangeh = ['5', '10', '15','20', '25','30','35','40','45','50','55','60','65','70','75','80','85','90','100', '9999999']
+const sange = sangeh[Math.floor(Math.random() * sangeh.length)]
+Maria.sendMessage(from, { text: `Nama : ${q}\nJawaban : *${sange}%*` }, { quoted:m})
+
+break
+case 'wangy':
+if (!q) return reply (`Contoh : .wangy Bagus`)
+qq = q.toUpperCase()
+awikwok = `${qq} ${qq} ${qq}    WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaaah baunya rambut ${qq} wangyy aku mau nyiumin aroma wangynya ${qq} AAAAAAAAH ~ Rambutnya.... aaah rambutnya juga pengen aku elus-elus ~~ AAAAAH ${qq} keluar pertama kali di anime juga manis    banget AAAAAAAAH ${qq} AAAAA LUCCUUUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH   apa ? ${qq} itu gak nyata ? Cuma HALU katamu ? nggak, ngak ngak ngak ngak NGAAAAAAAAK GUA GAK PERCAYA ITU DIA NYATA NGAAAAAAAAAAAAAAAAAK PEDULI BANGSAAAAAT !! GUA GAK PEDULI SAMA KENYATAAN POKOKNYA GAK PEDULI.    ${qq} gw ... ${qq} di laptop ngeliatin gw, ${qq} .. kamu percaya sama aku ? aaaaaaaaaaah syukur ${q} aku gak mau merelakan ${qq} aaaaaah    YEAAAAAAAAAAAH GUA MASIH PUNYA ${qq} SENDIRI PUN NGGAK SAMA AAAAAAAAAAAAAAH`
+ reply(awikwok)
+break
+         case 'sound71':
+         case 'sound72':
+         case 'sound73':
+         case 'sound74':
+         case 'sound75':
+         case 'sound1':
+         case 'sound2':
+         case 'sound3':
+         case 'sound4':
+         case 'sound5':
+         case 'sound6':
+         case 'sound7':
+         case 'sound8':
+         case 'sound9':
+         case 'sound10':
+         case 'sound11':
+         case 'sound12':
+         case 'sound13':
+         case 'sound14':
+         case 'sound15':
+         case 'sound16':
+         case 'sound17':
+         case 'sound18 ':
+         case 'sound19':
+         case 'sound20':
+         case 'sound21':
+         case 'sound22':
+         case 'sound23':
+         case 'sound24':
+         case 'sound25':
+         case 'sound26':
+         case 'sound27':
+         case 'sound28':
+         case 'sound29':
+         case 'sound30':
+         case 'sound31':
+         case 'sound32':
+         case 'sound33':
+         case 'sound34':
+         case 'sound35':
+         case 'sound36':
+         case 'sound37':
+         case 'sound38':
+         case 'sound39':
+         case 'sound40':
+         case 'sound41':
+         case 'sound42':
+         case 'sound43':
+         case 'sound44':
+         case 'sound45':
+         case 'sound46':
+         case 'sound47':
+         case 'sound48':
+         case 'sound49':
+         case 'sound50':
+         case 'sound51':
+         case 'sound52':
+         case 'sound53':
+         case 'sound54':
+         case 'sound55':
+         case 'sound56':
+         case 'sound57':
+         case 'sound58':
+         case 'sound59':
+         case 'sound60':
+         case 'sound61':
+         case 'sound62':
+         case 'sound63':
+         case 'sound64':
+         case 'sound65':
+         case 'sound66':
+         case 'sound67':
+         case 'sound68':
+         case 'sound69':
+         case 'sound70':
+case 'sound71':
+case 'sound72':
+case 'sound73':
+case 'sound74':
+case 'sound75':
+case 'sound76':
+case 'sound77':
+case 'sound78':
+case 'sound79':
+case 'sound80':
+case 'sound81':
+case 'sound82':
+case 'sound83':
+case 'sound84':
+case 'sound85':
+case 'sound86':
+case 'sound87':
+case 'sound88':
+case 'sound89':
+case 'sound90':
+case 'sound91':
+case 'sound92':
+case 'sound93':
+case 'sound94':
+case 'sound95':
+case 'sound96':
+case 'sound97':
+case 'sound98':
+case 'sound99':
+case 'sound100':
+case 'sound101':
+case 'sound102':
+case 'sound103':
+case 'sound104':
+case 'sound105':
+case 'sound106':
+case 'sound107':
+case 'sound108':
+case 'sound109':
+case 'sound110':
+case 'sound111':
+case 'sound112':
+case 'sound113':
+case 'sound114':
+case 'sound115':
+case 'sound116':
+case 'sound117':
+case 'sound118':
+case 'sound119':
+case 'sound120':
+case 'sound121':
+case 'sound122':
+case 'sound123':
+case 'sound124':
+case 'sound125':
+case 'sound126':
+case 'sound127':
+case 'sound128':
+case 'sound129':
+case 'sound130':
+case 'sound131':
+case 'sound132':
+case 'sound133':
+case 'sound134':
+case 'sound135':
+case 'sound136':
+case 'sound137':
+case 'sound138':
+case 'sound139':
+case 'sound140':
+case 'sound141':
+case 'sound142':
+case 'sound143':
+case 'sound144':
+case 'sound145':
+case 'sound146':
+case 'sound147':
+case 'sound148':
+case 'sound149':
+case 'sound150':
+case 'sound151':
+case 'sound152':
+case 'sound153':
+case 'sound154':
+case 'sound155':
+case 'sound156':
+case 'sound157':
+case 'sound158':
+case 'sound159':
+case 'sound160':
+case 'sound161': {
+           
+            let res = await fetch(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
+            if (!res.ok) throw await res.text()
+            let img = await res.buffer()
+            Maria.sendMessage(m.chat, {
+               audio: img,
+               mimetype: 'audio/mpeg',
+               ptt: true
+            }, {
+               quoted:m
+            })
+ 
+         }
+         break
                            
   case 'menu': case 'help': case 'h': 
-  const txt = `╭─「 *${xtime}* 」
-│⋊ 𝕌𝕤𝕖𝕣: *${pushname}* 
-│⋊ 𝕓𝕠𝕥 ℕ𝕒𝕞𝕖: 𝗠𝗮𝗿𝗶𝗮-𝗠𝗱
-│⋊ ℙ𝕣𝕖𝕗𝕚𝕩:  [ *${prefix}* ]
-│⋊ 𝕆𝕨𝕟𝕖𝕣: GuzXD
-│⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: Coming 
-╰────────────┈平和
-Here's the list of my Commands.🔖
-${readmore}
-┌──⊰ _*🧧GENERAL🧧*_
-│⊳ 🌿 ${prefix}hi
-│⊳ 🌿 ${prefix}dev
-│⊳ 🌿 ${prefix}info
-│⊳ 🌿 ${prefix}kntl
-│⊳ 🌿 ${prefix}rules
-│⊳ 🌿 ${prefix}help
-│⊳ 🌿 ${prefix}runtime
-│⊳ 🌿 ${prefix}ping
-│⊳ 🌿 ${prefix}owner
-│⊳ 🌿 ${prefix}ban
-└──────────⊰
+  Maria.sendMessage(from, { react: { text: "", key: m.key }}) 
+  const txt = ` *${time2}* 
+ : *${pushname}* 
+  : -
+ :  [ *.* ]
+ : GuzXD
+ : ${mariafeature()}
+  : Coming 
+
+Here's the list of my Commands.
+${readmore}
 
-┌──⊰ _*👮🏻‍♂️GROUP👮🏻‍♂️*_
-│⊳ 🍁 ${prefix}antilink
-│⊳ 🍁 ${prefix}closetime
-│⊳ 🍁 ${prefix}opentime
-│⊳ 🍁 ${prefix}kick
-│⊳ 🍁 ${prefix}promote
-│⊳ 🍁 ${prefix}demote
-│⊳ 🍁 ${prefix}setdesc
-│⊳ 🍁 ${prefix}setppgc
-│⊳ 🍁 ${prefix}tagall
-│⊳ 🍁 ${prefix}hidetag
-│⊳ 🍁 ${prefix}totag
-│⊳ 🍁 ${prefix}group *[option]*
-│⊳ 🍁 ${prefix}editinfo
-│⊳ 🍁 ${prefix}gclink
-│⊳ 🍁 ${prefix}revoke
-│⊳ 🍁 ${prefix}listonline
-└──────────⊰
+ _*GENERAL*_
+  .hi
+  .dev
+  .info
+  .kntl
+  .rules
+  .help
+  .runtime
+  .ping
+  .owner
+  .ban
+
 
-┌──⊰ _*🎉FUN🎉*_
-│⊳🎟️ ${prefix}truth
-│⊳🎟️ ${prefix}dare
-│⊳🎟️ ${prefix}couple 
-│⊳🎟️ ${prefix}checkdeath
-│⊳🎟️ ${prefix}uglycheck
-│⊳🎟️ ${prefix}lovelycheck
-│⊳🎟️ ${prefix}prettycheck
-│⊳🎟️ ${prefix}
-│⊳🎟️ ${prefix}lesbiancek
-│⊳🎟️ ${prefix}lesbicek
-│⊳🎟️ ${prefix}pintercek
-│⊳🎟️ ${prefix}goblokcek
-│⊳🎟️ ${prefix}gaycek
-│⊳🎟️ ${prefix}cantikcek
-│⊳🎟️ ${prefix}gantengcek
-└──────────⊰
+ _*GROUP*_
+  .antilink
+  .closetime
+  .opentime
+  .kick
+  .promote
+  .demote
+  .setdesc
+  .setppgc
+  .tagall
+  .hidetag
+  .totag
+  .group *[option]*
+  .editinfo
+  .gclink
+  .revoke
+  .listonline
+
 
-┌──⊰ _*📂download📂*_
-│⊳ 📥 ${prefix}play
-│⊳ 📥 ${prefix}ytmp3
-│⊳ 📥 ${prefix}ytmp4
-│⊳ 📥 ${prefix}igimage 
-│⊳ 📥 ${prefix}igvideo 
-│⊳ 📥 ${prefix}gitclone
-│⊳ 📥 ${prefix}pinterest
-│⊳ 📥 ${prefix}apk
-└──────────⊰
+ _*FUN*_
+ .truth
+ .dare
+ .couple 
+ .cekmati
+ .cekmemek
+ .cekkontol
+ .rate
+ .wangy
+ .lesbiancek
+ .lesbicek
+ .pintercek
+ .goblokcek
+ .gaycek
+ .cantikcek
+ .gantengcek
+
 
-┌──⊰ _*🎐SnapBlend🎐*_
-│⊳🎀 ${prefix}shadow
-│⊳🎀 ${prefix}write
-│⊳🎀 ${prefix}smoke
-│⊳🎀 ${prefix}burnpaper
-│⊳🎀 ${prefix}romantic
-│⊳🎀 ${prefix}writeart
-│⊳🎀 ${prefix}rainboweffect
-│⊳🎀 ${prefix}smokyneon
-│⊳🎀 ${prefix}underwaterocean
-│⊳🎀 ${prefix}coffecup
-│⊳🎀 ${prefix}doublelove
-│⊳🎀 ${prefix}undergrass
-│⊳🎀 ${prefix}love
-│⊳🎀 ${prefix}narutobanner
-│⊳🎀 ${prefix}shinetext
-└──────────⊰
+ _*download*_
+  .play
+  .ytmp3
+  .ytmp4
+  .igimage 
+  .igvideo 
+  .gitclone
+  .pinterest
+  .apk
+
 
-┌──⊰ _*🔞NSFW 🔞*_
-│⊳ 💦  ${prefix}blowjob
-│⊳ 💦  ${prefix}cum
-│⊳ 💦  ${prefix}foot
-│⊳ 💦  ${prefix}gangbang
-│⊳ 💦  ${prefix}hentai
-│⊳ 💦  ${prefix}pussy
-│⊳ 💦  ${prefix}ass
-│⊳ 💦  ${prefix}trap
-│⊳ 💦  ${prefix}maal
-│⊳ 💦  ${prefix}ʀɪʙʙᴏɴꜱ
-│⊳ 💦  ${prefix}ʜᴀᴛꜱᴜɴᴇᴍɪᴋᴜ
-│⊳ 💦  ${prefix}ʜᴇᴀᴅʙᴀɴᴅ
-│⊳ 💦  ${prefix}ꜰᴏxɢɪʀʟ
-│⊳ 💦  ${prefix}ᴀɴɪᴍᴀʟᴇᴀʀꜱ
-│⊳ 💦  ${prefix}ʙʀᴀ
-│⊳ 💦  ${prefix}ꜱᴋɪʀᴛ
-│⊳ 💦  ${prefix}ʙʀᴇᴀꜱᴛꜱ
-│⊳ 💦  ${prefix}ᴛᴀᴛᴛᴏᴏ
-│⊳ 💦  ${prefix}ᴄʜᴀɪɴ
-└──────────⊰ 
+ _*SnapBlend*_
+ .shadow
+ .write
+ .smoke
+ .burnpaper
+ .romantic
+ .writeart
+ .rainboweffect
+ .smokyneon
+ .underwaterocean
+ .coffecup
+ .doublelove
+ .undergrass
+ .love
+ .narutobanner
+ .shinetext
+
 
-┌──⊰ _*🧩OWNER🧩*_
-│⊳ ♠️ ${prefix}session
-│⊳ ♠️ ${prefix}join
-│⊳ ♠️ ${prefix}mode *[self/public]*
-│⊳ ♠️ ${prefix}shutdown
-│⊳ ♠️ ${prefix}restart
-│⊳ ♠️ ${prefix}autoread *[option]*
-│⊳ ♠️ ${prefix}autotyping *[option]*
-│⊳ ♠️ ${prefix}autorecording *[option]*
-│⊳ ♠️ ${prefix}autorecordtyp *[option]*
-│⊳ ♠️ ${prefix}autobio *[option]*
-│⊳ ♠️ ${prefix}autoswview *[option]*
-│⊳ ♠️ ${prefix}setppbot
-│⊳ ♠️ ${prefix}block
-│⊳ ♠️ ${prefix}unblock
-│⊳ ♠️ ${prefix}backup
-│⊳ ♠️ ${prefix}getcase
-│⊳ ♠️ ${prefix}creategc
-└──────────⊰
+ _*NSFW *_
+   .blowjob
+   .cum
+   .foot
+   .gangbang
+   .hentai
+   .pussy
+   .ass
+   .trap
+   .maal
+   .
+   .
+   .
+   .x
+   .
+   .
+   .
+   .
+   .
+   .
+ 
 
-┌──⊰ _*⛩️OTHERS⛩️*_
-│⊳ 🏮 ${prefix}sticker
-│⊳ 🏮 ${prefix}qc
-│⊳ 🏮 ${prefix}smeme
-│⊳ 🏮 ${prefix}take
-│⊳ 🏮 ${prefix}toimage
-│⊳ 🏮 ${prefix}tovideo
-│⊳ 🏮 ${prefix}toaudio
-│⊳ 🏮 ${prefix}tomp3
-│⊳ 🏮 ${prefix}tovn
-│⊳ 🏮 ${prefix}togif
-│⊳ 🏮 ${prefix}tourl
-│⊳ 🏮 ${prefix}toqr
-│⊳ 🏮 ${prefix}toviewonce
-│⊳ 🏮 ${prefix}fliptext
-│⊳ 🏮 ${prefix}emojimix
-│⊳ 🏮 ${prefix}circlevideo
-│⊳ 🏮 ${prefix}google
-│⊳ 🏮 ${prefix}pinterest
-│⊳ 🏮 ${prefix}dalle
-│⊳ 🏮 ${prefix}gpt
-└──────────⊰
-🍂 To enable NSFW (Admin only!), enter  *${prefix}nsfw* 
+ _*SOUND*_
+  .sound1
+  .sound2
+  .sound3
+  .sound4
+  .sound5
+  .sound6
+  .sound7
+  .sound8
+  .sound9
+  .sound10
+  .sound11
+  .sound12
+  .sound13
+  .sound14
+  .sound15
+  .sound16
+  .sound17
+  .sound18 
+  .sound19
+  .sound20
+  .sound21
+  .sound22
+  .sound23
+  .sound24
+  .sound25
+  .sound26
+  .sound27
+  .sound28
+  .sound29
+  .sound30
+  .sound31
+  .sound32
+  .sound33
+  .sound34
+  .sound35
+  .sound36
+  .sound37
+  .sound38
+  .sound39
+  .sound40
+  .sound41
+  .sound42
+  .sound43
+  .sound44
+  .sound45
+  .sound46
+  .sound47
+  .sound48
+  .sound49
+  .sound50
+  .sound51
+  .sound52
+  .sound53
+  .sound54
+  .sound55
+  .sound56
+  .sound57
+  .sound58
+  .sound59
+  .sound60
+  .sound61
+  .sound62
+  .sound63
+  .sound64
+  .sound65
+  .sound66
+  .sound67
+  .sound68
+  .sound69
+  .sound70
+
 
-🍂 Obtain the full list of NSFW commands by typing  *${prefix}nsfwmenu*`
+
+ _*OWNER*_
+  .session
+  .join
+  .mode *[self/public]*
+  .shutdown
+  .restart
+  .autoread *[option]*
+  .autotyping *[option]*
+  .autorecording *[option]*
+  .autorecordtyp *[option]*
+  .autobio *[option]*
+  .autoswview *[option]*
+  .setppbot
+  .block
+  .unblock
+  .backup
+  .getcase
+  .creategc
+
+
+ _*OTHERS*_
+  .remini
+  .sticker
+  .qc
+  .smeme
+  .take
+  .toimage
+  .tovideo
+  .toaudio
+  .tomp3
+  .tovn
+  .togif
+  .tourl
+  .toqr
+  .toviewonce
+  .fliptext
+  .emojimix
+  .circlevideo
+  .google
+  .pinterest
+  .dalle
+  .gpt
+
+ To enable NSFW (Admin only!), enter  *.nsfw* 
+
+ Obtain the full list of NSFW commands by typing  *.nsfwmenu*`
 
   if (randomImage) {
     Maria.sendMessage(from, { image: { url: randomImage }, caption: txt }, { quoted: m });
   }
 
   break; 
+  case 'jodohku': {
+if (!m.isGroup) return reply(mess.group);
+let member = participants.map(u => u.id)
+let me = m.sender
+let jodoh = member[Math.floor(Math.random() * member.length)]
+let jawab = `Jodoh mu adalah
+
+@${me.split('@')[0]}  @${jodoh.split('@')[0]}`
+let ments = [me, jodoh]
+let buttons = [
+{ buttonId: '.jodohku', buttonText: { displayText: 'Jodohku' }, type: 1 }
+]
+await Maria.sendButtonText(m.chat, buttons, jawab, ownername, m, {mentions: ments})
+}
+break
      
        case 'circlevideo': {
 try {
@@ -1773,13 +2083,11 @@ break
                   data
                }) => {
                   Maria.sendMediaAsSticker(m.chat, data.url, m, {
-                     packname: global.packname,
-                     author: global.author
+                  packname: `${global.stickername}`
                   })
 
 
                })
-            db.data.users[m.sender].limit = addLimit
          }
          break
 
@@ -1986,6 +2294,7 @@ break;
 
 
 			    ////
+			case 'remini':
 			    case 'hd': {
 			if (!quoted) return reply(`Where is the picture?`)
 			if (!/image/.test(mime)) return reply(`Send/Reply Photos With Captions ${prefix + command}`)
@@ -2295,8 +2604,8 @@ https://chat.whatsapp.com/${response}
         
   case 'mods': case 'developer': case 'dev': 
         
-            reply(` *━━━〈 🧧Maria Dev🧧 〉━━━*\n
-🔮 *Ayush* +919931122319
+            reply(` *━━━〈 🧧SennaX Dev🧧 〉━━━*\n
+🔮 *Bagus* +62895700121662
 
 🔮 *xeon* +916909137213
 
