@@ -13,16 +13,14 @@ global.botname = 'Best_Bot' //name of the bot
 //sticker details
 global.stickername = '💙𓆩‎✘Best✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'Best Bot'
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
 
-//theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
-
+//theme best
 //custom prefix
-global.prefa = ['!']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
@@ -38,7 +36,7 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*🎀 Best Bot 🎀*\n\n*🧩',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
