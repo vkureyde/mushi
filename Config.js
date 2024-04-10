@@ -2,21 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernumber = ['233599153518']
+global.ownername = "Wayne Tech"//owner name
+global.location = "Ghanaian"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = 'WAYNE BOT' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = 'Wayne Tech'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'WAYNE BOT'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Wayne bot inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
@@ -38,7 +36,7 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*🎀 Wayne Bot🎀*\n\n*🧩 Bot link:* \nhttps://github.com/Kennedy980/Wayne-bot',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
