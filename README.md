@@ -42,7 +42,7 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/asmakev930h/Cobra-MD/fork)
 
 
 ## ` Pair with WhatsApp`
