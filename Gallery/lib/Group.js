@@ -2,7 +2,7 @@ const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
 const groupmenu=`
-「 *Maria BOT* 」
+「 *Cobra BOT* 」
 ┌──⊰ _*👮🏻‍♂️GROUP👮🏻‍♂️*_
 │⊳ 🍁 ${prefix}antilink
 │⊳ 🍁 ${prefix}closetime
