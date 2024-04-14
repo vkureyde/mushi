@@ -1,7 +1,7 @@
 const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
-const searchmenu=`「 *Cobra bot * 」
+const searchmenu=`「 *Cobra BOT* 」
 ♡ۣۜۜ፝͜͜͡͡✿➤ *INFO BOT*
   ♡ۣۜۜ፝͜͜͡͡✿➤ Name: Cobra BOT
   ♡ۣۜۜ፝͜͜͡͡✿➤ Version: 1.0
