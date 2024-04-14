@@ -1,8 +1,8 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
-<h1 align="center">⭐Maria-Md⭐<br></h1>
+<a href="https://imgbb.com/upload"><img src="https://i.ibb.co/yB1BPM9/Gemini-Generated-Image-4g4yye4g4yye4g4y.jpg" alt="Maria-Md" border="0"></a>
+<h1 align="center">⭐Cobra-Md⭐<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "Maria md " a WhatsApp bot made by Ayush to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa, I am "Cobra-md" a WhatsApp bot made by Cobra to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
@@ -18,7 +18,7 @@
 5. auto react added ✅️
 🔻More features and improvements!
 
--regards Ayush
+-regards cobra
 ```
 </br>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=919931122319&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Ayush-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=2347041039367&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Cobra-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -35,14 +35,14 @@
 ## ```Bot Support Groups```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/InlWkeQ1Wdu3sKkWRKGzqo"><img src="https://img.shields.io/badge/JOIN SUPPORT GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/AYUSH-PANDEY023/Maria-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/asmakev930h/Cobra-MD/fork)
 
 
 ## ` Pair with WhatsApp`
