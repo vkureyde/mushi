@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernumber = process.env.OWNER_NUMBER || "4915510605736=",
+global.ownernumber = process.env.OWNER_NUMBER || "18019092485",
 global.ownername = process.env.OWNER_NAME || "🌹bratan🌹",//owner name
 global.ytname = "YT: MrBeast"
 global.socialm = "GitHub: bratan18137"
