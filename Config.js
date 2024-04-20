@@ -3,18 +3,18 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernumber = process.env.OWNER_NUMBER || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",//owner name
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernumber = process.env.OWNER_NUMBER || "4915510605736=",
+global.ownername = process.env.OWNER_NAME || "🌹bratan🌹",//owner name
+global.ytname = "YT: MrBeast"
+global.socialm = "GitHub: bratan18137"
+global.location = "Germany"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "𓆈",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "💌",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.author = process.env.AUTHOR || "🌹bratan🌹",
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
