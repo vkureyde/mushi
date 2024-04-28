@@ -23,7 +23,7 @@ global.wm = "Ayush botz inc."
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
 
 //custom prefix
-global.prefa = process.env.PREFIX || ".",
+global.prefa = process.env.PREFIX,
 
 //false=disable and true=enable
 global.welcome = process.env.WELCOME || "false", //auto welcome
