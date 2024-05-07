@@ -1,4 +1,4 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://i.ibb.co/xYwQ4Lw/cheemspic.jpg" alt="Maria-Md" border="0"></a>
+<a href="https://ibb.co/pQNpmwN"><img src="https://telegra.ph/file/e7bf16b4e46f5f6b97824.jpg" alt="Maria-Md" border="0"></a>
 <h1 align="center">⭐Maria-Md⭐<br></h1>
 
 <p align="center"> 
@@ -27,17 +27,17 @@
 
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I"><img src="https://img.shields.io/badge/follow channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vae7PI21Hsq5sUyaCI1W"><img src="https://img.shields.io/badge/follow channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/kingdavidtvupdates"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 ## ✧✧Bot Support Groups
 <p align="center">
 
-<a href="https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/CY0BgYpi1r06I9jnVDmjRx"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
