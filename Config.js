@@ -7,7 +7,7 @@ global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
 global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Kenya"
 
 global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
 
@@ -51,8 +51,8 @@ global.mess = {
 }
 
 module.exports = {
-ownernumber: global.ownernumber,
-ownername: global.ownername,
+254704322434: global.254704322434,
+shammelody23: global.shammelody,
 sessionId: process.env.id,
 AUTO_BLOCK : process.env.PM_BLOCKER,
 STATUS_SAVER : "true",
